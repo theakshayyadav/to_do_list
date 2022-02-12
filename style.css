@@ -1,0 +1,197 @@
+.div-1{
+    /* display: flex; */
+   
+}
+.form-date{
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 2%;
+    background-color: #FFEEFF;
+    border:1PX solid #808080;
+}
+.input-task{
+    height: 80px;
+    width: 80%;
+}
+.input-task
+{
+    border-radius: 5px;
+}
+.btn-save
+{
+    text-align: end;
+    /* border: 1px solid black; */
+    padding-top: 1%;
+    
+}
+.btn-save-cancel{
+    width: 200px;
+    margin-right: 10px;
+}
+   
+.btn-date
+{
+    width: 50px;
+    height: 40px;
+    border:1px solid #808080;
+    background-color: darkgray;
+    border-radius: 3px;
+
+}
+.img-date{
+    height: 30px;
+}
+.form-task
+{
+    width: 290px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 2%;
+    border:1PX solid #808080;
+    background-color: #FFEEFF;
+}
+.mean-div
+{
+    padding: 10px 2%;
+    background-color: gray;
+}
+.align-item{
+    align-items: center;
+}
+table ,th ,td{
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+}
+.btn-actoin{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.btn-edit{
+    margin-right: 20px;
+    /* background-color:#FFBBEE; */
+}
+.action-part{
+    margin-top: 3px;
+    border: 1px solid rebeccapurple;
+    padding:1% 1% ;
+}
+.action-container{
+    /* height: 280px; */
+    background-color: ligt;
+    padding-top: 15px;
+    border-bottom: 1px solid #808080;
+    border-left: 1px solid #808080;
+    border-right: 1px solid #808080;
+   
+}
+.table ,th ,td{
+    border: 1px solid #808080;
+    text-align: center;
+}
+.nav-bar{
+    height: 50px;
+    border-radius: 10px;
+   text-align: center;
+   box-shadow: 2px 2px 2px 2px;
+   /* background-color: #ee564c; */
+   background-color:dimgrey ;
+
+}
+.nav-text{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.form-date{
+
+}
+
+
+
+
+
+
+@media only screen and (max-width:600px) {
+
+    #form-date {
+        width: 200px;
+        height: 40px;
+        border-radius: 5px;
+        margin-left: 2%;
+        background-color: #FFEEFF;
+        border: 1PX solid #808080;
+        margin-bottom: 4%;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <!-- <!-- <table style="width: 100%;;text-align: center;">
+        <tr>
+            <th>DATE</th>
+            <th>TIME</th>
+            <th>TASK</th>
+            <th>STETUS</th>
+        </tr>
+        <tr>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+           
+        </tr>
+        <tr>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+           
+        </tr>
+        <tr>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+            <td>hi</td>
+           
+        </tr>
+        </table>
+
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-lg-12">
+                    <label for="" class="ms-5 mb-3" style="font-size: 20px;"><b>Action : </b></label>
+                    <button class="btn btn-warning ms-5 mb-3" style="width: 150px;">Edit</button>
+                    <button class="btn btn-warning ms-5 mb-3" style="width: 150px;">Cancel</button>
+                </div>
+            </div>
+        </div> 
+         
+                <th><button class="btn btn-warning " style="width: 150px;">Edit</button></th> -->
+               
+                 <th><button class="btn btn-warning" style="width: 150px;">Edit</button></th> -->
+                */
